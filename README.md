@@ -12,7 +12,6 @@ A robust, enterprise-ready Python automation tool for auditing and collecting op
 ## Table of Contents
 - [Key Features](#key-features)
 - [Architecture & Workflow](#architecture--workflow)
-- [Project Documentation (`/docs`)](#project-documentation-docs)
 - [Installation & Quickstart](#installation--quickstart)
 - [Portable Release & Quickstart](#portable-release--quickstart)
 - [Inventory Configuration](#inventory-configuration)
@@ -106,17 +105,6 @@ A robust, enterprise-ready Python automation tool for auditing and collecting op
 |  - Colour-coded status column, frozen header, auto-fit      |
 +-------------------------------------------------------------+
 ```
-
----
-
-## Project Documentation (`/docs`)
-
-All technical specifications, architectural designs, and active task tracking documents are organized under `/docs`:
-
-- **[`docs/requirements.md`](docs/requirements.md)**: Problem statement, user stories, acceptance criteria, and functional requirements.
-- **[`docs/design.md`](docs/design.md)**: Detailed system architecture, data models, state machines, and Excel report schema specs.
-- **[`docs/tasks.md`](docs/tasks.md)**: Execution roadmap, phase milestones, and task checklists.
-- **[`docs/CONTEXT.md`](docs/CONTEXT.md)**: Real-time session state, architectural decisions, and verification logs.
 
 ---
 
