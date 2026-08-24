@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Credentials & Switch Inventory containing sensitive production data
+switch.txt
+*.local.txt
+
+# Generated reports & collection outputs
+outputs/
+outputs_clean/
+*.csv
+
+# Logs
+logs/
+
+# Documentation builds
+docs/
+
+# Portable release packaging artifacts
+staging/
+release/
+
+# PyInstaller build output
+build/
+dist/
+
+# Editor & OS artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

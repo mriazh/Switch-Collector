@@ -1,0 +1,4 @@
+SW-CORE-01 | 192.168.1.1 | admin | password123
+SW-DIST-01 | 192.168.1.2 | manager | password123
+SW-ACCESS-01 | 192.168.1.10 | operator | password123
+SW-ACCESS-02 | 192.168.1.11 | operator | password123
